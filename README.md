@@ -16,7 +16,8 @@
 
 基于esp32的多功能应用卡片，支持时钟天气，粉丝计数器，闹钟，倒计日，游戏，电子书，图片，视频，新闻，股票，离线模式等功能。
 
-原理图及pcb见：https://oshwhub.com/blueskyer/appcardv3
+原理图及pcb见：https://oshwhub.com/blueskyer/appcardv3      
+
 QQ技术群：801516857
 
 硬件部分及程序烧录：
