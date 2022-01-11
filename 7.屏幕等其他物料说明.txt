@@ -1,0 +1,23 @@
+
+屏幕购买链接：
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.8e2d2e8dVZYSx3&id=605985020631&_u=cpab1dm4a6d
+
+类型-不带触摸-插接款
+
+备注一下送18p的fpc座子，不然店家可能只给14p的。
+
+
+其他可替代件部分淘宝链接
+
+蜂鸣器
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7b922e8dF7ccj9&id=625704240601&_u=tpab1dm5b47
+TF卡座
+https://item.taobao.com/item.htm?spm=a1z10.3-c-s.w4002-21223910208.10.5b3a6a4bP3WJLq&id=522573245737
+tp4056
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7b922e8dF7ccj9&id=522573697765&_u=tpab1dme599
+esp32-wrover e -16M版本
+https://item.taobao.com/item.htm?spm=a1z09.2.0.0.7b922e8dF7ccj9&id=635423723258&_u=tpab1dm210b&mt=
+
+其他自行搜索，开关之类的最好立创买，不然第三方买可能装不上外壳，特别是几个方向键按钮那部分
+
+开关可以使用立创的中国星坤品牌券16-15，小龟开关8个，轻触开关1个，滑动开关-七脚1个。typec和tf座子（tf座子编号：C381082）也可以星坤买
